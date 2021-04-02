@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap");
+
+* {
+  font-family: "Reem Kufi", sans-serif;
+}
+body{
+    background-image: url('../img/5a28f00fadccb1.9132976015126323357119.png') ;
+}
+
+nav.navbar {
+  box-shadow: none;
+  background: transparent;
+  font-size: 20px;
+}
+nav.navbar .navbar-brand{
+    font-size: 25px;
+}
+.ramadan .row img {
+  width: 400px;
+  height: 400px;
+ 
+}
+.ramadan .row .th {
+  margin-top: 150px;
+}
+.ramadan .row .th p{
+    font-size: 23px;
+}
+.ramadan .row .th h2{
+    font-size: 40px;
+}
+
